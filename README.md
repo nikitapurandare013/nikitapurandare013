@@ -43,6 +43,8 @@ I care deeply about:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2E8B57?style=for-the-badge)
+![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF4500?style=for-the-badge)
 
 ---
 
