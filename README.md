@@ -39,6 +39,9 @@ I care deeply about:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Natural Language Processing](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
