@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nikita Purandare</h1>
-<h3 align="center">AI & Data Science Engineer | Exploring Generative AI  | Modern AI Builder</h3>
+<h3 align="center">AI & Data Science Engineer | Exploring Generative AI and Modern AI Systems</h3>
 
 <p align="center">
   Building production-grade AI systems • Designing scalable LLM architectures • Solving real-world problems with intelligence
@@ -15,7 +15,7 @@ My focus areas:
 - Generative AI & LLM Orchestration
 - Agentic AI Systems & Multi-Agent Architectures
 - Retrieval-Augmented Generation (RAG)
-- Reinforcement Learning for Financial Systems
+- Reinforcement Learning
 - Scalable Backend + Cloud Deployment
 
 I care deeply about:
@@ -64,7 +64,6 @@ I care deeply about:
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -75,6 +74,7 @@ I care deeply about:
 - Built semantic retrieval pipeline with LangChain and document parsing via BeautifulSoup.
 - Developed Flask backend + interactive frontend (JavaScript, HTML/CSS).
 - Enabled accurate, context-grounded, real-time responses.
+
 **Focus:** Low-latency retrieval + factual grounding + Great UI
 
 ---
@@ -119,6 +119,7 @@ I care deeply about:
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/nikita-purandare-11b281247 
+
 Email: nikita01034@gmail.com
 
 ---
