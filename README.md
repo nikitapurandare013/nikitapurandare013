@@ -84,7 +84,7 @@ I care deeply about:
 
 ---
 
-### 2️⃣ Document Question Answering System (LLM + RAG)
+### 2️⃣ Question Answering System (LLM + RAG)
 - Built modular ingestion + semantic retrieval workflow.
 - Implemented in-memory vector indexing for fast context-aware responses.
 - Designed Streamlit interface for real-time LLM interaction.
